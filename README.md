@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sithija Kaveeshwara</h1>
 <h3 align="center">Full Stack DEv</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sithijakavee&label=Profile%255views&color=0e75b6&style=flat" alt="sithijakavee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sithijakavee&label=Profile%20views&color=0e75b6&style=flat" alt="sithijakavee" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://www.skdev.tech](https://www.skdev.tech)
