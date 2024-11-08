@@ -123,7 +123,6 @@
   
 </div>
 
-###
 
 <div align="right" width="100%">
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
