@@ -128,9 +128,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
