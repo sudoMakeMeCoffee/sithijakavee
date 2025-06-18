@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! 👋 I'm Sith, your favorite (and probably most awkward) web developer on the internet!</h2>
+<h2 align="left">Nothing but Juz one of the developers </h2>
 
 ###
 
